@@ -58,19 +58,19 @@ global.author = 'Created By Fahil'
 global.namebot = 'Fahil-𝕭𝖔𝖙𝐳'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Fahil'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.watermark = 'Fahil'
+global.watermark = wm
 global.wm2 = 'Fahil-𝕭𝖔𝖙𝐳'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = 'Fahil-𝕭𝖔𝖙𝐳'
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `Fahil-𝕭𝖔𝖙𝐳`
 global.stickpack = 'Fahil-𝕭𝖔𝖙𝐳'
-global.stickauth = `© Fahil`
+global.stickauth = `Fahil-𝕭𝖔𝖙𝐳`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'Fahil'
-global.nameown2 = 'Fahil-Botz'
+global.nameown2 = 'fahil rimex'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
