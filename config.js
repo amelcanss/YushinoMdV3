@@ -43,7 +43,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6287852161042'
+global.nomorbot = '6285755141552'
 global.nomorown = '6287833306677'
 global.nomorown1 = '6287833306677'
 global.nomorown2 = '6287833306677'
@@ -54,7 +54,7 @@ global.nomorwa = '087833306677'
 
 global.readMore = readMore
 global.author = 'Created By Fahil'
-global.namebot = 'Fahil-𝕭𝖔𝖙𝐳'
+global.namebot = 'Fahil-Botz V2'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Fahil'
 global.media = 'https://telegra.ph/file/884628e92ea8ecb6de018.jpg'
 global.watermark = wm
@@ -63,13 +63,13 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.packname = 'Fahil-𝕭𝖔𝖙𝐳'
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `Fahil-𝕭𝖔𝖙𝐳`
-global.stickpack = 'Fahil-𝕭𝖔𝖙𝐳'
-global.stickauth = `Fahil-𝕭𝖔𝖙𝐳`
+global.stickpack = 'Ig :'
+global.stickauth = `@_pahilz26`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'Fahil'
-global.nameown2 = 'fahil rimex'
+global.nameown2 = '-'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -262,10 +262,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/884628e92ea8ecb6de018.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/884628e92ea8ecb6de018.jpg'
 global.giflogo = 'https://telegra.ph/file/884628e92ea8ecb6de018.jpg'
-global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
+global.thumbs = ['https://telegra.ph/file/884628e92ea8ecb6de018.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
