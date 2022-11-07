@@ -58,13 +58,13 @@ global.namebot = 'Fahil-Botz V2'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Fahil'
 global.media = 'https://telegra.ph/file/884628e92ea8ecb6de018.jpg'
 global.watermark = wm
-global.wm2 = 'Fahil-𝕭𝖔𝖙𝐳'
+global.wm2 = 'Fahil-Botz V2'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.packname = 'Fahil-𝕭𝖔𝖙𝐳'
+global.packname = 'Fahil-Botz V2'
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Fahil-𝕭𝖔𝖙𝐳`
-global.stickpack = 'Ig :'
-global.stickauth = `@_pahilz26`
+global.titlebot = `Fahil-Botz V2`
+global.stickpack = 'By Fahil'
+global.stickauth = `Instgram : @_pahilz26`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -78,7 +78,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/_pahilz26'
 global.sgh = 'https://github.com/amelcanss' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
